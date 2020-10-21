@@ -8,6 +8,10 @@ You can try to install nasm on windows using visual studio or some other way, bu
 
 Alternatively, you could do something like this [video](https://www.youtube.com/watch?v=W8UTCqWb2eQ).
 
+## Usage Tips
+
+- Specify your cpu architecture using ```nasm -f elf64 -o <outputfile>.o <asmfile>.asm```
+
 ## Youtube Videos
 
 - Channel [New Mind](https://www.youtube.com/c/NewMind) has a helpful [playlist](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) that gives very detailed and granular information that is helpful for both understanding assembly as well as operating systems
