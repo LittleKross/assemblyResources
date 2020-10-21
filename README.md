@@ -4,4 +4,5 @@ This is a repo for help with learning assembly. Listed below are links to differ
 
 ## Youtube Videos
 
-- Channel [New Mind](https://www.youtube.com/c/NewMind) has a helpful [playlist](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) that gives very detailed and granular information that is helpful for both understanding assembly as well as operating systems.
+- Channel [New Mind](https://www.youtube.com/c/NewMind) has a helpful [playlist](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) that gives very detailed and granular information that is helpful for both understanding assembly as well as operating systems
+- This [playlist](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) is specific to nasm and provides more examples (He does run the programs on linux)
