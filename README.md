@@ -10,7 +10,7 @@ Alternatively, you could do something like this [video](https://www.youtube.com/
 
 ## Usage Tips
 
-- Specify your cpu architecture using ```nasm -f elf64 -o <outputfile>.o <asmfile>.asm```
+- Specify your cpu architecture using ```nasm -f elf64 -o <outputfile>.o <asmfile>.asm``` additionally you can specify ```-f elf32``` for 32 bit execution
 
 ## Youtube Videos
 
